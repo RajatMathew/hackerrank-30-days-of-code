@@ -1,5 +1,7 @@
-# Hackkerank 30 days of code challenge
+# Hackerrank 30 days of code challenge
 
-### Completed
+https://www.hackerrank.com/domains/tutorials/30-days-of-code
+
+### Completed challenges
 
 - Day 0 - Datatypes
