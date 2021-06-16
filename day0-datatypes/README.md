@@ -1,6 +1,6 @@
-## QUestion
+## Question
 
-(Question for day 1)[https://www.hackerrank.com/challenges/30-data-types/problem]
+https://www.hackerrank.com/challenges/30-data-types/problem
 
 ## Key takeaways
 
