@@ -2,4 +2,4 @@
 
 ### Completed
 
-- Day 1 - Datatypes
+- Day 0 - Datatypes
