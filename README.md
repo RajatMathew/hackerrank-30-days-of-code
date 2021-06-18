@@ -7,3 +7,4 @@ https://www.hackerrank.com/domains/tutorials/30-days-of-code
 - Day 0 - Hello World
 - Day 1 - Datatypes
 - Day 2 - Operators
+- Day 3 - Conditionals
