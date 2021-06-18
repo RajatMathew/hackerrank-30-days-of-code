@@ -8,3 +8,4 @@ https://www.hackerrank.com/domains/tutorials/30-days-of-code
 - Day 1 - Datatypes
 - Day 2 - Operators
 - Day 3 - Conditionals
+- Day 4 - Class vs Instance
